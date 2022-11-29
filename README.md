@@ -1,1 +1,1 @@
-1 alx trial readme
+updated my readme from github site
